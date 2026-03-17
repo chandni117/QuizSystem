@@ -1,6 +1,5 @@
 package com.quiz.QuizService.entity;
 
-import java.beans.Transient;
 import java.util.List;
 
 import jakarta.persistence.Entity;
